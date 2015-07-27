@@ -1,0 +1,3 @@
+[submodule "packer"]
+	path = packer
+	url = https://github.com/anthshor/packer-ubuntu14042-ember1131
