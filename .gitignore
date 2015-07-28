@@ -3,3 +3,4 @@ vagrant/archive/
 .DS_Store
 vagrant/bg.png
 vagrant/style.css
+vagrant/proxy.env
