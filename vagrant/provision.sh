@@ -4,7 +4,7 @@
 # Proxy
 [ -f /vagrant/proxy.env ] && source /vagrant/proxy.env
 
-pushd /home/vagrant
+pushd /vagrant
 if [ ! -d todomvc-embercli ]; then
   sudo ember new todomvc-embercli
   sudo chown -R vagrant: todomvc-embercli
